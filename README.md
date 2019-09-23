@@ -24,3 +24,7 @@ $ lunch aosp_$device-userdebug
 # Build the code
 $ mka bacon -jX
 ```
+
+## Credits
+-  [PixelExperience](https://github.com/PixelExperience)
+-  [LineageOS](http://GitHub.com/LineageOS)
