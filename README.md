@@ -26,6 +26,6 @@ $ mka bacon -jX
 ```
 
 ## Credits
--  [Syberia-Project] (https://github.com/syberia-project)
+-  [Syberia-Project](https://github.com/syberia-project)
 -  [PixelExperience](https://github.com/PixelExperience)
 -  [LineageOS](http://GitHub.com/LineageOS)
