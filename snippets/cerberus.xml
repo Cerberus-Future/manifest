@@ -31,7 +31,7 @@
   <project path="external/json-c" name="external_json-c" remote="pixel" />
   <project path="hardware/qcom/audio-caf/msm8998" name="hardware_qcom_audio-caf_msm8998" remote="pixel" />
   <project path="hardware/qcom/audio-caf/sdm845" name="hardware_qcom_audio-caf_sdm845" remote="pixel" />
-  <project path="hardware/qcom/bt-caf" name="hardware_qcom_bt-caf" remote="pixel" />
+  <project path="hardware/qcom/bt-caf" name="hardware_qcom_bt-caf" remote="cerberus" />
   <project path="hardware/qcom/display-caf/msm8998" name="hardware_qcom_display-caf_msm8998" remote="pixel" />
   <project path="hardware/qcom/display-caf/sdm845" name="hardware_qcom_display-caf_sdm845" remote="pixel" />
   <project path="hardware/qcom/fm" name="hardware_qcom_fm" remote="pixel" />
@@ -109,7 +109,7 @@
   <project path="hardware/nxp/nfc" name="hardware_nxp_nfc" remote="pixel" />
   <project path="hardware/qcom/audio/default" name="hardware_qcom_audio" remote="pixel" />
   <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" remote="pixel" />
-  <project path="hardware/qcom/bt" name="hardware_qcom_bt" remote="pixel" />
+  <project path="hardware/qcom/bt" name="hardware_qcom_bt" remote="cerberus" />
   <project path="hardware/qcom/camera" name="hardware_qcom_camera" remote="pixel" />
   <project path="hardware/qcom/display" name="hardware_qcom_display" remote="pixel" />
   <project path="hardware/qcom/gps" name="hardware_qcom_gps" remote="pixel" />
